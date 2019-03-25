@@ -1,2 +1,2 @@
-# EAIPluse shopping website
+# EAIPlus shopping website
 shopping_website in J2EE
